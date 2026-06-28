@@ -1,0 +1,11 @@
+{
+    "domain": "dashcast_patcher",
+    "name": "DashCast Patcher",
+    "version": "0.1.0",
+    "documentation": "https://github.com/pieterjvt/dashcast-patcher",
+    "dependencies": [],
+    "codeowners": ["@pieterjvt"],
+    "requirements": [],
+    "iot_class": "local_push",
+    "config_flow": true
+}

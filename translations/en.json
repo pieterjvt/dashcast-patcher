@@ -1,0 +1,26 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "DashCast Patcher",
+                "description": "Select which DashCast receiver to use.",
+                "data": {
+                    "receiver": "Receiver"
+                }
+            }
+        },
+        "abort": {
+            "single_instance_allowed": "DashCast Patcher is already configured."
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "title": "DashCast Patcher",
+                "data": {
+                    "receiver": "Receiver"
+                }
+            }
+        }
+    }
+}
